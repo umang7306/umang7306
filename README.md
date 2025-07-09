@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Umang Sawankumar Saladallu
 
-<!--
-**umang7306/umang7306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BBA(CA) Graduate | 💡 Beginner in AI & Machine Learning | 🧠 Exploring TensorFlow & No-Code AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My AI Projects
+
+### 🤖 1. [Thumbs Up vs Thumbs Down Classifier](https://github.com/umang7306/thumbs-up-down-classifier)  
+Real-time image classifier that detects thumbs up/down using webcam input.
+
+### 🔊 2. [Clap vs Whistle Sound Classifier](https://github.com/umang7306/clap-vs-whistle-ai)  
+Sound recognition model that listens through your mic and detects clap vs whistle.
+
+### 🔢 3. [MNIST Digit Classifier](https://github.com/umang7306/mnist-digit-classifier)  
+Custom AI model built in TensorFlow to recognize handwritten digits with 98% accuracy.
+
+---
+
+## 🛠️ Tools & Tech
+- Python, TensorFlow, Keras
+- Google Colab, Teachable Machine
+- HTML/CSS/JS
+- Git & GitHub
+
+---
+
+📫 Reach me at: umang84847@gmail.com  
+📍 Pune, India
